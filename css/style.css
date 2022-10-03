@@ -99,7 +99,7 @@ html {
   right: 0;
   width: 50%;
   height: 100vh;
-  background-image: url("img/BG3.JPG");
+  background-image: url("../img/BG3.JPG");
   background-size: cover;
   background-position: 30%;
   z-index: -999;
@@ -668,7 +668,7 @@ html {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url("img/prlx.JPG");
+  background-image: url("../img/prlx.JPG");
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
